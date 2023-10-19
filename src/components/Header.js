@@ -41,6 +41,7 @@ const Header = () => {
               Login
             </button>
           </li>
+          <li className="px-8">Hi</li>
           <li>{loggedInUser}</li>
         </ul>
       </div>
